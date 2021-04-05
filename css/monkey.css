@@ -18,7 +18,7 @@ html {
 }*/
 @media screen only and (max-width: 406px) and (min-width: 1170px) {
   #monkey{
-  left: -450px;
+right: 0px;
   top:0px;
 }
 }
