@@ -23,6 +23,7 @@ html {
 #dolphin{
 
    left: 800px;
+   top: 800px;
    transform: rotate(-20deg);
 }
 
