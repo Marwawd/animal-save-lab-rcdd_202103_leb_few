@@ -15,10 +15,17 @@ html {
    left: 450px;
    top:0px;
 }
-}*/
+}
 @media screen only and (min-width: 406px) and (max-width: 1170px) {
   #monkey{
   right: 0px;
   top:0px;
 }
+}*/
+
+@media only screen and (min-width: 406px) and (max-width: 1170px) {
+  #monkey {
+    right: 0;
+    top: 0;
+  }
 }
