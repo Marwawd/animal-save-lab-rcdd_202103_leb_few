@@ -21,6 +21,6 @@ html {
 /* Write your solution here */
 
 @media only screen(min-width:1090) {
-  #dolphin{ left: 100px;}
+  #dolphin{ left: 900px;}
 
 }
