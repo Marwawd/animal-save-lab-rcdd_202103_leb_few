@@ -8,9 +8,9 @@ html {
   right: 0;
 }
 
-/* Write your solution here
+/* Write your solution here*/
 
 @media only screen and (max-width:1196px) {
-#bear{ padding:5px 5px 5px 5px; }
+#bear{ justify-content: center;}
 
-}*/
+}
