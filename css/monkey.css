@@ -17,3 +17,7 @@ html {
 }
 }*/
 @media (max-width: 406px) and (min-width: 1170px) {
+  #monkey{left: 450px;
+  top:0px;
+}
+}
