@@ -17,7 +17,7 @@ html {
    top:0px;
 }
 }
-@media only screen and (max-width:406px) {
+@media only screen and (max-width:480px) {
 #monkey{
 top:100px;
 }
